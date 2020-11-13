@@ -1,21 +1,21 @@
 {
-  "name": "discord-bot-template",
+  "name": "ticket-bot",
   "version": "1.0.0",
-  "description": "Templete para criacao de bots para o discord",
+  "description": "Bot para lidar com tickets de suporte em uma guilda do discord",
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasreichmann/discord-bot-template.git"
+    "url": "git+https://github.com/thomasreichmann/ticket-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasreichmann/discord-bot-template/issues"
+    "url": "https://github.com/thomasreichmann/ticket-bot/issues"
   },
-  "homepage": "https://github.com/thomasreichmann/discord-bot-template#readme",
+  "homepage": "https://github.com/thomasreichmann/ticket-bot#readme",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
